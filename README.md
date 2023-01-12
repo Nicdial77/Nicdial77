@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nic
 - 👀 I’m interested in learning code, music, and video games!
-- 🌱 I’m currently learning Git and Javascript
 - 💞️ I’m looking to collaborate on anything! I am open to helping on any project. 
 - 📫 You can reach me on my linkedin account www.linkedin.com/in/nic-dial-8b44031a6
 
